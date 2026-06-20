@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Wong Kai Jun, an avid learner that is currently studying CS at Monash University Malaysia.
+### I'm Wong Kai Jun, an avid learner that is currently studying CS.
 <!--
 **kj-dev-77/kj-dev-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
